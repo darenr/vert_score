@@ -1,4 +1,3 @@
 from typing import List
 nltk
 scikit-learn
-numpy
